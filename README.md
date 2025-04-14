@@ -1,0 +1,7 @@
+1:) req.txt ( contain all packages we need to run)
+2:) app.py ( stream lit app for user interface)
+3:) newslang ( commands)
+4:) env ( APi keys of OPen AI and NEWSAPI)
+5:) Report ( word doc file )
+6:) ppt presentation ( powerpont presentation of the project)
+7:) it might show openai key error as of now it requires payment ( earlier api keys were free but now it asks for payment)
